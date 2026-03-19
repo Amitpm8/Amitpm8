@@ -1,118 +1,118 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=250&section=header&text=Amit%20P%20M&fontSize=50&fontColor=00eaff&fontAlignY=35&desc=Cloud%20%7C%20DevOps%20Engineer%20in%20Making&descAlignY=60&descSize=22&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=Amit%20P%20M&fontSize=48&fontColor=00fff7&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer&descAlignY=60&descSize=22"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00EAFF&center=true&vCenter=true&width=800&lines=Designing+Scalable+Cloud+Systems;Automating+Infrastructure+with+DevOps;Learning+by+Building+Real+Projects;Future+Site+Reliability+Engineer;Turning+Ideas+into+Production+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1200&color=00FFF7&center=true&vCenter=true&width=850&lines=Designing+Cloud+Systems+That+Scale;DevOps+%7C+Automation+%7C+Infrastructure;Learning+by+Building+Real+Projects;Future+SRE+in+the+Making;Consistency+%3E+Motivation" />
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/Profile-Under%20Construction-00fff7?style=for-the-badge&logo=github&logoColor=black"/>
+
 </div>
 
 ---
 
-# 🧠 Who Am I?
-
-```yaml
-Name      : Amit P M
-Role      : Cloud & DevOps Engineer (in progress)
-Location  : India 🇮🇳
-Status    : Building Skills + Open to Opportunities
-
-Core Identity:
-  - I build systems, not just code
-  - I automate everything possible
-  - I learn by creating real infrastructure
-
-Current Mission:
-  Becoming industry-ready DevOps Engineer before 2026 🚀
-```
-
----
-
-# ⚡ Tech Arsenal
+# 🧬 Identity
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,python,bash&theme=dark" />
+```yaml id="h1s9k2"
+Name     : Amit P M
+Role     : Cloud & DevOps Engineer (Building Phase)
+Location : India 🇮🇳
+Status   : Open to Opportunities 🚀
+
+Mission  : Become industry-ready DevOps Engineer
+Approach : Learn → Build → Break → Automate → Repeat
+```
 
 </div>
 
 ---
 
-# 🏗️ DevOps Mindset
+# ⚡ Tech Stack (Core)
 
 <div align="center">
 
-```text
-BUILD → AUTOMATE → SCALE → MONITOR → IMPROVE
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux,python,bash&theme=dark" />
+
+</div>
+
+---
+
+# 🌌 DevOps Flow
+
+<div align="center">
+
+```text id="a92kx1"
+CODE → BUILD → TEST → CONTAINERIZE → DEPLOY → MONITOR → SCALE
 ```
 
 </div>
 
 ---
 
-# ☁️ What I Understand (Not Just Tools)
+# 🧠 What Makes Me Different
 
-### Cloud
+<div align="center">
 
-* AWS Architecture (EC2, VPC, RDS, S3, IAM)
-* High Availability & Scaling Concepts
+✨ I don’t just learn tools — I build systems
+⚡ I focus on real-world infrastructure
+🧩 I break complex systems into simple blocks
+🚀 I’m consistent, not occasional
 
-### DevOps
-
-* CI/CD Pipeline Design
-* Containerization & Orchestration
-* Infrastructure as Code
-
-### Systems
-
-* Linux Internals
-* Networking (DNS, HTTP, Load Balancing)
+</div>
 
 ---
 
-# 🚀 What I’m Currently Working On
+# 🚀 Current Focus
 
-* Building **CI/CD pipelines from scratch**
-* Deploying apps using **Docker + Kubernetes**
-* Writing **Terraform for real infrastructure**
-* Learning **monitoring (Prometheus + Grafana)**
+<div align="center">
 
----
-
-# 🧩 My Growth Path
-
-```text
-Beginner → Builder → DevOps Engineer → SRE → Architect
+```text id="q2k4d9"
+AWS  |  Terraform  |  Kubernetes  |  CI/CD  |  Monitoring
 ```
+
+</div>
+
+---
+
+# 🧩 Growth Blueprint
+
+<div align="center">
+
+```text id="z8n3qp"
+Fresher → Builder → DevOps Engineer → SRE → Architect
+```
+
+</div>
 
 ---
 
 # 💡 Philosophy
 
-> I don’t chase tutorials.
-> I build things until I understand them.
+<div align="center">
 
-> I don’t fear complexity.
-> I break it into systems.
+> "Automate everything you repeat."
+> "Systems over shortcuts."
+> "Execution beats knowledge."
 
-> I don’t wait for opportunities.
-> I prepare for them.
+</div>
 
 ---
 
-# 📬 Connect
+# 🔗 Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-00EAFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-00FFF7?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-00EAFF?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/Email-00FFF7?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 </div>
@@ -121,6 +121,6 @@ Beginner → Builder → DevOps Engineer → SRE → Architect
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=120&section=footer&text=Building%20My%20Cloud%20Journey%20🚀&fontSize=18&fontColor=00eaff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&text=Let’s%20Build%20Systems%20🚀&fontColor=00fff7&animation=fadeIn"/>
 
 </div>
