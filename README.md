@@ -1,71 +1,23 @@
-<div align="center">
+<h1 align="center">Hey, I'm Amit 👋</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=120&section=header"/>
-
-# Amit P M
-
-### Cloud & DevOps Engineer (in progress)
-
-<br/>
-
-<p>
-Building scalable systems • Automating infrastructure • Learning by doing
+<p align="center">
+  Cloud & DevOps Engineer in progress · NIT Karnataka · Pune
 </p>
 
-<br/>
+---
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • <a href="mailto:YOUR_EMAIL">Email</a>
+**Currently building:**
+- AWS infrastructure (VPC, EC2, S3, CloudFront)
+- Docker & CI/CD pipelines
+- Real projects > certificates
 
-</div>
+**Stack I'm working with:**
+`AWS` `Docker` `Linux` `Python` `Terraform` `Git`
+
+**Find me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Amitpm8)
 
 ---
 
-## About
-
-I’m a DevOps-focused engineer building strong foundations in cloud infrastructure, automation, and system design.
-
-Currently focused on understanding how real-world systems are built, deployed, and scaled — not just learning tools, but applying them in practice.
-
----
-
-## Focus
-
-* Cloud Infrastructure (AWS)
-* Infrastructure as Code (Terraform)
-* Containers & Orchestration (Docker, Kubernetes)
-* CI/CD Systems
-* Linux & Networking
-
----
-
-## Approach
-
-```
-Learn → Build → Break → Fix → Automate → Repeat
-```
-
----
-
-## Current Direction
-
-Working towards becoming a production-ready DevOps Engineer by building real systems and understanding the complete lifecycle of applications.
-
----
-
-## Philosophy
-
-I focus on depth over surface-level learning.
-
-Understanding systems is more important than memorizing tools.
-
-Consistency is more important than intensity.
-
----
-
-<div align="center">
-
-<br/>
-
-subtle. simple. consistent.
-
-</div>
+<p align="center"><i>Learn → Build → Break → Fix → Repeat</i></p>
